@@ -1,16 +1,12 @@
-## Note for WRI363 Students or Teacher Who Look at This
+## Reading Guide
 
-My main assignment is the .ipynb file. Don't download it– just look at it through GitHub
+For anyone reading this file, I would recommend going through the files in this order:
 
-I have all the data pieces explanations attached in my file as well. However, some of it might not
-make sense unless you have the appropriate background in all the variables involved.
-
-I advise reading through the Jupyter Notebooks Context and skimming through the Cleaning section
-before looking at the other files.
-
-For the misleading data piece, you might want to read the section Data Analysis without Normalization. 
-
-For the data communication piece, I would advise reading the section Data Analysis with Normalization. 
-
-The Cleaning section and any other sections are optional– although they are important parts of my Counter data piece, 
-so maybe skim through them.
+1. First read the WRI363_Madhav Ajayamohan's Data Story ipnyb file. This Jupiter Notebook:
+   1. Gives an introduction to the context of this piece
+   2. Goes through how I clean data
+   3. Throuoghly analyzes different variables using Pandas, Numpy, Matplotlib, and Seaborn
+2. If you are interested in learning more about the appendices, you can check out
+   1. Check out the Appendices– these describe all the results I obtained from the data
+   2. You can also look at the Survey Results csv file
+3. I also analyzed this data using an economic perspective– that was actually my first piece of work related to this. If you are interested, read the document Investigation on the Change of Consumption and Savings Patterns in the Expatriate Keralite Population During the Pandemic linked in the Github as well
